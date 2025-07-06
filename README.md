@@ -5,9 +5,7 @@
 ---
 
 ### 📚 Formación destacada y logros
-- 🏅 Finalista en retos académicos de programación y diseño de sistemas.
 - 📜 Certificado en **Fundamentos de Java**, **Git y GitHub**, y **Desarrollo de aplicaciones móviles** (Android).
-- 🧑‍🏫 Mentor informal para compañeros de clase en estructuras de datos y SQL.
 - 📖 En constante formación autodidacta con cursos en plataformas como Platzi, Oracle Next Education y OpenBootcamp.
 - 🌐 Participante activo en comunidades de desarrollo como GitHub, Stack Overflow y foros de Oracle.
 
