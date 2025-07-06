@@ -1,37 +1,39 @@
-## 👋 Hi there, I'm Victor!
+## 👋 ¡Hola! Soy Victor
 
-🎓 I'm a student of **Multiplatform Software Development** passionate about technology, clean code, and building solutions that make an impact. I’m currently focused on growing my skills in full-stack development, mobile apps, and modern software architecture.
-
----
-
-### 🚀 What I'm Working On
-- 📱 A multiplatform **inventory system** for institutional use with **JavaFX** and **Oracle Cloud**.
-- 🤖 A **custom programming language** called `Titan`, inspired by Rust, Go, and LLVM.
-- 🌍 A social impact project named **MicroImpacto**, a decentralized microcredit platform powered by blockchain.
+🎓 Soy estudiante de **Desarrollo de Software Multiplataforma**, apasionado por la tecnología, el código limpio y la creación de soluciones que generen impacto. Actualmente me estoy enfocando en mejorar mis habilidades en desarrollo full-stack, aplicaciones móviles y arquitectura moderna de software.
 
 ---
 
-### 🌱 What I'm Learning
-- 🧠 **Data Structures & Algorithms** to improve problem-solving.
-- ☁️ **Cloud technologies**, especially **Oracle Cloud Infrastructure**.
-- 📦 **Software architecture** with focus on clean, scalable and secure systems.
-- 🧪 **Unit testing** and **CI/CD pipelines** with GitHub Actions.
+### 📚 Formación destacada y logros
+- 🏅 Finalista en retos académicos de programación y diseño de sistemas.
+- 📜 Certificado en **Fundamentos de Java**, **Git y GitHub**, y **Desarrollo de aplicaciones móviles** (Android).
+- 🧑‍🏫 Mentor informal para compañeros de clase en estructuras de datos y SQL.
+- 📖 En constante formación autodidacta con cursos en plataformas como Platzi, Oracle Next Education y OpenBootcamp.
+- 🌐 Participante activo en comunidades de desarrollo como GitHub, Stack Overflow y foros de Oracle.
 
 ---
 
-### 💡 Interests & Goals
-- 💼 Contributing to open-source and real-world projects.
-- 🧑‍🔬 Innovating in areas like **teleportation technology** and **AI ethics**.
-- 🧩 Building solutions that combine technology and social purpose.
-- 🎮 Indie game development in **Unity** (I’m currently creating *Eco de las Sombras* 🎧👻).
+### 🌱 Lo que estoy aprendiendo
+- 🧠 **Estructuras de datos y algoritmos** para mejorar mis habilidades de resolución de problemas.
+- ☁️ **Tecnologías en la nube**, especialmente **Oracle Cloud Infrastructure**.
+- 📦 **Arquitectura de software** enfocada en sistemas limpios, escalables y seguros.
+- 🧪 **Pruebas unitarias** y **CI/CD** con GitHub Actions.
 
 ---
 
-### 🛠 Tech Stack
+### 💡 Intereses y metas
+- 💼 Contribuir a proyectos de código abierto y reales.
+- 🧑‍🔬 Innovar en áreas como la **teletransportación de objetos físicos** y la **ética en inteligencia artificial**.
+- 🧩 Construir soluciones que combinen tecnología y propósito social.
+- 🎮 Desarrollo de videojuegos indie con **Unity** (actualmente estoy creando *Eco de las Sombras* 🎧👻).
+
+---
+
+### 🛠 Tecnologías que uso
 ```yaml
-- Languages: Java, Kotlin, Python, JavaScript, Solidity
-- Mobile: Android (Jetpack Compose), Flutter (learning)
+- Lenguajes: Java, Kotlin, Python, JavaScript, Solidity
+- Móvil: Android (Jetpack Compose), Flutter (aprendiendo)
 - Frontend: HTML, CSS, JavaScript, FXML
-- Backend: Java (Spring), Node.js (basics)
-- DBs: Oracle, PostgreSQL, SQLite
-- Tools: Git, GitHub, Figma, Postman, Oracle SQL Developer
+- Backend: Java (Spring), Node.js (básico)
+- Bases de datos: Oracle, PostgreSQL, SQLite
+- Herramientas: Git, GitHub, Figma, Postman, Oracle SQL Developer
