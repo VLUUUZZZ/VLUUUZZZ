@@ -4,6 +4,8 @@
 
 **Multiplatform Software Development Student · Java Backend & Android Developer**
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Java+%26+Spring+Boot+REST+APIs;Android+apps+with+Kotlin;Clean%2C+scalable+and+secure+software" alt="Clean, scalable and secure software" /></a>
+
 Morelos, México · Universidad Tecnológica Emiliano Zapata (UTEZ)
 
 <a href="mailto:20243ds122@utez.edu.mx"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
