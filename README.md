@@ -43,9 +43,9 @@ Software development student focused on **Java backend development with Spring B
 |---|---|---|
 | [Judicial Management System](https://github.com/sistema-gestion-judicial/sistema-gestion-judicial) | Team monorepo for court case management. Responsible for the Expert Witnesses module. | Java 21, Jakarta Servlet, Maven |
 | [SICI](https://github.com/VLUUUZZZ/SICII) | Desktop app for managing institutional assets and generating inventory custody reports in PDF. | Java, JavaFX, Cloud Firestore |
+| [Tickets API](https://github.com/VLUUUZZZ/tickets-api) | Support ticket REST API with a status lifecycle, priorities, business rules and centralized error handling. | Spring Boot, JPA, MySQL |
 | [Cotizaciones](https://github.com/VLUUUZZZ/cotizaciones) | REST API with quoting services for parcel shipping, car rental and lodging. | Java, Spring Boot |
-| [FastFood Service](https://github.com/VLUUUZZZ/FastFood-Service) | Ordering REST service with interactive API documentation and health monitoring. | Spring Boot, OpenAPI, Actuator |
-| [Bicitaller](https://github.com/VLUUUZZZ/bicitaller) | Backend for a bike workshop to manage bicycles and users. | Spring Boot, JPA, MySQL |
+| [FastFood Service](https://github.com/VLUUUZZZ/FastFood-Service) | Order management REST API built on a custom linked list, a FIFO queue and a stack-based rollback history. | Spring Boot, OpenAPI, Actuator |
 | Data Structures | From-scratch implementations of a [linked list](https://github.com/VLUUUZZZ/PracticaListaEnlazada), [doubly linked list](https://github.com/VLUUUZZZ/DoubleLinkedList), [stack](https://github.com/VLUUUZZZ/PracticaStack), [queue](https://github.com/VLUUUZZZ/PracticaQueue) and [undo/redo](https://github.com/VLUUUZZZ/Undo-Redo). | Java |
 
 ### Certifications
